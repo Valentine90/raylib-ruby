@@ -7,4 +7,13 @@
 
 #  Example
 ```Ruby
+require_relative 'src/raylib'
+
+init_window(800, 450, 'raylib [core] example - basic window')
+until window_should_close
+  begin_drawing
+    clear_background(RAY_WHITE)
+    draw_text('Congrats! You created your first window!', 190, 200, 20, LIGHT_GRAY)
+  end_drawing
+end
 ```
