@@ -16,4 +16,5 @@ until window_should_close
     draw_text('Congrats! You created your first window!', 190, 200, 20, LIGHT_GRAY)
   end_drawing
 end
+close_window
 ```
