@@ -3,7 +3,13 @@
 # About
 [Raylib](https://www.raylib.com/) wrapper for Ruby.
 
+Notice: This project is experimental.
+
 # Features
+
+# Prerequisites
+- Ruby interpreter
+- Gem ffi
 
 #  Example
 ```Ruby
