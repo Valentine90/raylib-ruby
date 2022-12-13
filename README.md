@@ -5,11 +5,9 @@
 
 Notice: This project is experimental.
 
-# Features
-
 # Prerequisites
-- Ruby interpreter
-- Gem ffi
+- [Ruby interpreter](https://www.ruby-lang.org/pt/downloads/)
+- Gem [FFI](https://github.com/ffi/ffi)
 
 #  Example
 ```Ruby
