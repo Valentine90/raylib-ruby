@@ -11,7 +11,7 @@ Notice: This project is experimental.
 
 #  Example
 ```Ruby
-require_relative 'src/raylib'
+require_relative 'lib/raylib'
 
 init_window(800, 450, 'raylib [core] example - basic window')
 
