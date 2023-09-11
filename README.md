@@ -5,6 +5,17 @@ Ruby bindings for [Raylib](https://www.raylib.com/).
 
 Notice: This project is experimental.
 
+[![Status](https://img.shields.io/badge/status-in_development-green.svg)](https://shields.io/)
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
+
+# Features
+- Raylib v4.5
+- Based on [FFI](https://github.com/ffi/ffi)
+- Supported platforms:
+  * Windows (x64 and x86)
+  * MacOS
+  * Linux (x64)
+
 # Prerequisites
 - [Ruby interpreter](https://www.ruby-lang.org/pt/downloads/)
 - Gem [FFI](https://github.com/ffi/ffi)
