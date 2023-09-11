@@ -5,11 +5,11 @@ Ruby bindings for [Raylib](https://www.raylib.com/).
 
 Notice: This project is experimental.
 
-[![Status](https://img.shields.io/badge/status-in_development-green.svg)](https://shields.io/)
-[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
+![Status](https://img.shields.io/badge/status-in_development-green.svg)
+[![PyPi license](https://badgen.net/pypi/license/pip/)]([https://pypi.org/project/pip/](https://github.com/Valentine90/raylib-ruby/blob/main/licence))
 
 # Features
-- Raylib v4.5
+- [Raylib v4.5](https://github.com/raysan5/raylib/releases/tag/4.5.0)
 - Based on [FFI](https://github.com/ffi/ffi)
 - Supported platforms:
   * Windows (x64 and x86)
