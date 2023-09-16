@@ -16,10 +16,6 @@ Notice: This project is experimental.
   * MacOS
   * Linux (x64)
 
-# Prerequisites
-- [Ruby interpreter](https://www.ruby-lang.org/pt/downloads/)
-- Gem [FFI](https://github.com/ffi/ffi)
-
 #  Example
 ```Ruby
 require_relative 'lib/raylib'
