@@ -1,0 +1,19 @@
+AllCops:
+  NewCops: enable
+
+Metrics/ModuleLength:
+  Exclude:
+    - 'lib/raylib/enums/keyboard.rb'
+    - 'test/text_boxed.rb'
+
+Style/MixinUsage:
+  Exclude:
+    - 'lib/raylib.rb'
+
+Naming/MethodParameterName:
+  AllowedNames:
+    - x
+    - y
+    - z
+    - id
+    - up

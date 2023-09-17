@@ -1,0 +1,15 @@
+# frozen_string_literal: true
+
+require_relative 'structs/vector2'
+require_relative 'structs/vector3'
+require_relative 'structs/color'
+require_relative 'structs/rectangle'
+require_relative 'structs/image'
+require_relative 'structs/texture'
+require_relative 'structs/glyph_info'
+require_relative 'structs/font'
+require_relative 'structs/camera_3d'
+require_relative 'structs/camera_2d'
+require_relative 'structs/audio_stream'
+require_relative 'structs/sound'
+require_relative 'structs/music'

@@ -1,4 +1,0 @@
-module Raylib
-  CAMERA_PERSPECTIVE = 0
-  CAMERA_ORTHOGRAPHIC = 1
-end
